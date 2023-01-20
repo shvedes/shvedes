@@ -8,7 +8,7 @@
 - 8gb RAM
 - 512gb ROM
 
-**[OS Setup:](https://github.com/shvedes/dotfiles)**
+**[OS Setup:](https://github.com/shvedes/dotfiles/tree/next)**
 
 <div align="center"> 
 
